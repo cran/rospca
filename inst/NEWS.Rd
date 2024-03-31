@@ -1,6 +1,14 @@
 \name{NEWS}
 \title{News for package rospca}
 
+\section{Changes in version 1.1.0 (2024-03-31)}{
+
+ \itemize{
+    \item Remove dependecy on \pkg{rrcovHD} as requested by Valentin Todorov, its maintainer.
+    \item Fix bug in \code{rospca} for \code{k=1}.
+ } 
+}
+
 
 \section{Changes in version 1.0.4 (2018-02-26)}{
 
